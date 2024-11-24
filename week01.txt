@@ -1,0 +1,29 @@
+package homework;
+
+public class HelloJava { // 클래스이며 첫 글자는 대문자
+
+	public static void main(String[] args) {// 메인메소드이며 이게 없으면 출력할 수 없음
+		System.out.println("hellojava"); // 출력메소드를 이용해서 hello java를 출력함
+
+	}
+
+}
+
+
+package homework;
+
+public class Printlnfo {public static void main(String[] args) {
+	System.out.println("허준혁 27" );
+}
+
+}
+
+
+package homework;
+
+public class Printlnfo2 { public static void main(String[] args) {
+	System.out.print("2024년 11월 24일");
+	System.out.print("00시42분");
+}
+
+}
